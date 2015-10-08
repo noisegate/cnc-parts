@@ -2,4 +2,4 @@
 
 ##stepper gear
 
-![](./artwork/gearok.svg)
+<img src="./artwork/gearok.png">
