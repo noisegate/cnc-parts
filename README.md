@@ -2,4 +2,4 @@
 
 ##stepper gear
 
-<img src="./artwork/gearok.svg">
+<img src="https:/github.com/noisegate/cnc-parts/artwork/gearok.svg" >
