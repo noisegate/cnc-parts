@@ -2,4 +2,4 @@
 
 ##stepper gear
 
-<img src="./artwork/gearok.png" >
+<img src="./artwork/gearok.svg" >
